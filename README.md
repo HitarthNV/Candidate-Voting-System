@@ -1,4 +1,4 @@
-# Online Voting System Using Doubly Linked Lists
+# Online candidate  Voting System Using Doubly Linked Lists
 
 This project implements an **Online Voting System** in Java, showcasing the use of **Data Structures and Algorithms (DSA)** concepts, particularly **Doubly Linked Lists**. It provides a simple interface to simulate an election where voters can cast votes for their chosen candidates.
 
