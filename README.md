@@ -62,11 +62,11 @@ Candidates are predefined in the system (`Candidate 1`, `Candidate 2`) for this 
 ---
 
 ## Sample Run
-Welcome to Online Voting System Enter Number of voters you want to add: 2 Enter your Name: John Enter Mobile number: 9123456789 Login successful! Welcome John
-<br>
+Welcome to Online Voting System<br> Enter Number of voters you want to add: 2 Enter your Name: John Enter Mobile number: 9123456789 Login successful! Welcome John<br>
+
 Candidate 1
 Candidate 2 Choose your operation: 1 Vote counted successfully.
-Enter your Name: Alice Enter Mobile number: 9876543210 Invalid mobile number format. Login failed. Attempts left=2 Enter your Name: Alice Enter Mobile number: 9123456789 Login successful! Welcome Alice
+Enter your Name: Alice Enter Mobile number: 9876543210 Invalid mobile number format. Login failed. Attempts left=2 <br>Enter your Name: Alice Enter Mobile number: 9123456789 Login successful! Welcome Alice
 <br>
 Candidate 1
 Candidate 2 Choose your operation: 2 Vote counted successfully.
